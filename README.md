@@ -26,7 +26,7 @@ Open up a seperate terminal and start your mongoose server by typing in `mongod`
 
 ### Executing program
 
-Run `npm run start` to run this application. Or vist this link to try the deployed version.
+Run `npm run start` to run this application. Or vist this [link](https://fitness-tracker-mongod.herokuapp.com/) to try the deployed version.
 Create a new workout, continue an exsisting one, then check your workout out visually with the link in the top left.
 
 ## Help
